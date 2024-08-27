@@ -1,2 +1,2 @@
 # RAIMU
-RAIMU is a General Purpose Object detection Implementation 
+Raimu  is an object detection app focused on two primary implementations: API-based object detection and embedded-system object detection. The project is a collaborative effort with friends, aiming to create a versatile solution that can be deployed both as an API for broader application integration and on embedded systems where real-time detection is critical. The project will likely leverage technologies such as OpenCV, TensorFlow, or PyTorch, tailored to fit both the API and embedded-system contexts.
